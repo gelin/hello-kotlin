@@ -16,7 +16,7 @@ $ ./gradlew build
 $ java -jar build/libs/hello-kotlin-1.0-SNAPSHOT.jar
 ```
 
-For other configuration options and command line arguments see https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html
+For other configuration options and command line arguments see https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html and https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
 
 ## Test
 
