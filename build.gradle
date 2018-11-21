@@ -23,7 +23,7 @@ apply plugin: 'io.spring.dependency-management'
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
-jar {
+bootJar {
     baseName = 'hello-kotlin'
     version = "$version"
 }
